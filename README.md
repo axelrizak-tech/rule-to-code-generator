@@ -21,3 +21,22 @@ reads business rules from a CSV file,
 validates rule structure,
 generates a clean Python decision function,
 outputs ready-to-use automation logic.
+
+Technology
+
+Python
+Pandas
+Google Colab compatible
+
+Use Cases
+
+Business rule management
+RPA decision layers
+Compliance logic
+Automation prototyping
+Rule-driven systems
+
+Status
+
+Proof of Concept
+Easily extendable with validation, versioning, or AI-based rule interpretation.
